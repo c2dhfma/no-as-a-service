@@ -197,3 +197,10 @@ MIT — do whatever, just don’t say yes when you should say no.
 > "I tried to integrate No-as-a-Service into the Linux kernel to reject bad patches automatically, but it started rejecting my own commits. 10/10, absolutely ruthless."
 > 
 > — **Linus Torvalds** (probably)
+
+## ❤️ To do
+
+"Asking @salaun-marion to integrate this service as default in https://github.com/C2DH/journal-of-digital-history-backend !!!"
+
+— **Elisabeth Guerard** (probably)
+
